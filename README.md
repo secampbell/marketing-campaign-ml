@@ -37,4 +37,21 @@ The final model was deployed for live testing and returned accurate results usin
 
 - **Azure Machine Learning Studio**
 - Python 3.10
-- Pa
+- Pandas / Matplotlib / Sklearn
+- Azure AutoML
+
+---
+
+## 🗂️ Dataset Notes
+
+The original dataset was, let’s say, “enthusiastically random.” Early work involved extensive **data prep and reshaping** to make the structure meaningful before applying any ML logic. While this didn’t necessarily improve predictive accuracy, it gave the data a cleaner backbone to work with.
+
+---
+
+## 🔍 Feature Importance
+
+The most impactful features in predicting campaign success were:
+
+- `click_through_rate`
+- `conversion_rate` 
+- `AI_score` and `pipeline_value_generated` made minor contributions.
