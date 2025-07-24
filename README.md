@@ -39,7 +39,7 @@ The final model was deployed for live testing and returned accurate results usin
 
 ## 🛠️ Tech Stack
 
-- **Azure Machine Learning Studio**
+- Azure Machine Learning Studio
 - Python 3.10
 - Pandas / Matplotlib / Sklearn
 - Azure AutoML
