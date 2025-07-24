@@ -12,7 +12,6 @@ This project was created as part of an AI portfolio initiative using synthetic m
 |----------------------------------|---------|
 | `eda_marketing_campaigns.ipynb` | Cleaned and restructured a chaotic dataset into meaningful campaign logic |
 | `campaign_prediction_pipeline.ipynb` | Trains a classification model using AutoML & prepares it for deployment |
-| `campaign_success_predict.ipynb` | Makes new success predictions based on campaign inputs |
 | `feature_importance_chart.png`  | Visual showing which features matter most |
 | `sample_prediction_output.png`  | Shows an example predicted `success_flag` of 1.00 |
 
