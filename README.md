@@ -10,10 +10,15 @@ This project was created as part of an AI portfolio initiative using synthetic m
 
 | File / Notebook                  | Purpose |
 |----------------------------------|---------|
-| `eda_marketing_campaigns.ipynb` | Cleaned and restructured a chaotic dataset into meaningful campaign logic |
-| `campaign_prediction_pipeline.ipynb` | Trains a classification model using AutoML & prepares it for deployment |
-| `feature_importance_chart.png`  | Visual showing which features matter most |
-| `sample_prediction_output.png`  | Shows an example predicted `success_flag` of 1.00 |
+| `1-workspace.png` | Workspace setup showing notebooks and pipeline files. |
+| `2-autoML_run.png` | AutoML project overview with dataset and job configuration. |
+| `3-autoML_model_metrics.png` | Model metrics dashboard showing accuracy, precision-recall, ROC, and other. |
+| `4-EDA_stats.png` | EDA summary stats |
+| `5-correlation_matrix.png` | Correlation heatmap |
+| `6-success_distribution.png` | Distribution of success_flag |
+| `7-success_per_campaign.png` | Success by campaign objective boxplot |
+| `8-feature_importance.png` | Feature importance chart |
+| `9-predictive_analysis_email_campaign.png` | Sample prediction output of success for a future email campaign. |
 
 ---
 
